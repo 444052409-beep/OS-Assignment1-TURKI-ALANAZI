@@ -132,7 +132,9 @@ private int priority; // Priority from 1 to 10
     public int getBurstTime() {
         return burstTime;
     }
-
+public int getPriority() {
+    return priority;
+}
     public int getRemainingTime() {
         return remainingTime;
     }
