@@ -36,7 +36,7 @@ private int priority; // Priority from 1 to 10
         this.burstTime = burstTime;
         this.timeQuantum = timeQuantum;
         this.remainingTime = burstTime; // Initially, remaining time is equal to the burst time
-    }
+    }this.priority = new Random().nextInt(10) + 1;
 
     // This method will be called when the thread for this process is started
     @Override
