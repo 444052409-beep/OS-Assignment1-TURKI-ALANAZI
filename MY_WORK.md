@@ -8,7 +8,7 @@
 ---
 
 ## 1. Development Log
-- *2026-10-10:* Created the repository fork from the starter template and updated student ID to 445050096 in SchedulerSimulation.java.
+- *2026-10-10:* Created the repository fork from the starter template and updated student ID to 444052409 in SchedulerSimulation.java.
 - *2026-10-11:* Implemented process priority generation (1-10) and ensured ready queue display formatting without altering FIFO order.
 - *2026-10-11:* Added the static context switch counter to track and increment whenever a new process starts execution.
 - *2026-10-12:* Integrated System.currentTimeMillis() tracking to compute waiting times and turnaround times accurately.
